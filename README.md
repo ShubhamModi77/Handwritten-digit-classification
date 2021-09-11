@@ -1,1 +1,1 @@
-# Handwritten-digit-classification.py
+# Handwritten-digit-classification
